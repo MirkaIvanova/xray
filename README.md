@@ -1,2 +1,2 @@
 # xray
-XRay scripts
+XRay script
